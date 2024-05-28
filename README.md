@@ -1,0 +1,2 @@
+With respect to given queries by the institute i have executed and got results accordingly. Refer attached media for queries and solution.With respect to given queries by the institute i have executed and got results accordingly. Refer attached media for queries and solution.
+Skills: Microsoft SQL Server · SQL · Logical Approach · Understand & Convey Complex Information · Critical Thinking · DDL · DML · JOINS · T-SQL Stored Procedures
